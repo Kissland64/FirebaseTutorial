@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622614507607",
+    "project_id": "compose-firebase-de538",
+    "storage_bucket": "compose-firebase-de538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622614507607:android:188c4a604925d9d508f312",
+        "android_client_info": {
+          "package_name": "com.ucne.composefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWYTrZCwrrsQyKGh15Qjuwp9AjF2NdWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
